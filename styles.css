@@ -6,5 +6,16 @@ h1 {
 p {
     color: blue;
     font-weight: 800;
+}
 
+#tortilla {
+    text-align: left;
+}
+
+#chipotlechicken {
+    text-align: center;
+}
+
+#picodegallo {
+    text-align: right;
 }
